@@ -109,7 +109,7 @@
                     "Authentication"
                 ],
                 "summary": "Revoke Token",
-                "description": "Revoke an OAuth token if you don’t want an external client to access Salesforce data or if you don’t trust the client to discontinue access on its own. This invalidates the token set to the 'token' path variable in the URL.",
+                "description": "Revoke an OAuth token if you do not want an external client to access Salesforce data or if you don’t trust the client to discontinue access on its own. This invalidates the token set to the 'token' path variable in the URL.",
                 "operationId": "RevokeToken",
                 "parameters": [
                     {
